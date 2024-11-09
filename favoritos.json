@@ -26,5 +26,9 @@
     {
         "title": "Flashdance",
         "path": "ftps://ftp.drivehq.com:990/Kodi/CINE/flashdance [tt0085549]/flashdance.strm"
+    },
+    {
+        "title": "Dune",
+        "path": "davs://webdav.drivehq.com:443/Kodi/CINE/dune%20%5Btt1160419%5D/dune.strm"
     }
 ]
