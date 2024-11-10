@@ -3,6 +3,7 @@
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "La1",
@@ -11,13 +12,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "La1",
-    "ListItem.OriginalTitle": "La1",
-    "ListItem.Plot": "La1"
+    "ListItem.OriginalTitle": "La1"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "La1 UHD",
@@ -26,13 +27,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "La1 UHD",
-    "ListItem.OriginalTitle": "La1 UHD",
-    "ListItem.Plot": "La1 UHD"
+    "ListItem.OriginalTitle": "La1 UHD"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "La2",
@@ -41,13 +42,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "La2",
-    "ListItem.OriginalTitle": "La2",
-    "ListItem.Plot": "La2"
+    "ListItem.OriginalTitle": "La2"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "tdp 1080",
@@ -56,13 +57,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "tdp 1080",
-    "ListItem.OriginalTitle": "tdp 1080",
-    "ListItem.Plot": "tdp 1080"
+    "ListItem.OriginalTitle": "tdp 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "EuroSport 1 1080",
@@ -71,13 +72,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "EuroSport 1 1080",
-    "ListItem.OriginalTitle": "EuroSport 1 1080",
-    "ListItem.Plot": "EuroSport 1 1080"
+    "ListItem.OriginalTitle": "EuroSport 1 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "EuroSport 2 1080",
@@ -86,13 +87,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "EuroSport 2 1080",
-    "ListItem.OriginalTitle": "EuroSport 2 1080",
-    "ListItem.Plot": "EuroSport 2 1080"
+    "ListItem.OriginalTitle": "EuroSport 2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro 4k",
@@ -101,13 +102,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro 4k",
-    "ListItem.OriginalTitle": "Euro 4k",
-    "ListItem.Plot": "Euro 4k"
+    "ListItem.OriginalTitle": "Euro 4k"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro1 1080P",
@@ -116,13 +117,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro1 1080P",
-    "ListItem.OriginalTitle": "Euro1 1080P",
-    "ListItem.Plot": "Euro1 1080P"
+    "ListItem.OriginalTitle": "Euro1 1080P"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro2 1080",
@@ -131,13 +132,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro2 1080",
-    "ListItem.OriginalTitle": "Euro2 1080",
-    "ListItem.Plot": "Euro2 1080"
+    "ListItem.OriginalTitle": "Euro2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro3 1080",
@@ -146,13 +147,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro3 1080",
-    "ListItem.OriginalTitle": "Euro3 1080",
-    "ListItem.Plot": "Euro3 1080"
+    "ListItem.OriginalTitle": "Euro3 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro4 1080",
@@ -161,13 +162,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro4 1080",
-    "ListItem.OriginalTitle": "Euro4 1080",
-    "ListItem.Plot": "Euro4 1080"
+    "ListItem.OriginalTitle": "Euro4 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro5 1080",
@@ -176,13 +177,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro5 1080",
-    "ListItem.OriginalTitle": "Euro5 1080",
-    "ListItem.Plot": "Euro5 1080"
+    "ListItem.OriginalTitle": "Euro5 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro6 1080",
@@ -191,13 +192,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro6 1080",
-    "ListItem.OriginalTitle": "Euro6 1080",
-    "ListItem.Plot": "Euro6 1080"
+    "ListItem.OriginalTitle": "Euro6 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro7 1080",
@@ -206,13 +207,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro7 1080",
-    "ListItem.OriginalTitle": "Euro7 1080",
-    "ListItem.Plot": "Euro7 1080"
+    "ListItem.OriginalTitle": "Euro7 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro8 1080",
@@ -221,13 +222,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro8 1080",
-    "ListItem.OriginalTitle": "Euro8 1080",
-    "ListItem.Plot": "Euro8 1080"
+    "ListItem.OriginalTitle": "Euro8 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Euro9 1080",
@@ -236,13 +237,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Euro9 1080",
-    "ListItem.OriginalTitle": "Euro9 1080",
-    "ListItem.Plot": "Euro9 1080"
+    "ListItem.OriginalTitle": "Euro9 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga UHD",
@@ -251,13 +252,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga UHD",
-    "ListItem.OriginalTitle": "M. LaLiga UHD",
-    "ListItem.Plot": "M. LaLiga UHD"
+    "ListItem.OriginalTitle": "M. LaLiga UHD"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 1080P",
@@ -266,13 +267,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 1080P",
-    "ListItem.OriginalTitle": "M. LaLiga 1080P",
-    "ListItem.Plot": "M. LaLiga 1080P"
+    "ListItem.OriginalTitle": "M. LaLiga 1080P"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 1080 MultiAudio",
@@ -281,13 +282,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 1080 MultiAudio",
-    "ListItem.OriginalTitle": "M. LaLiga 1080 MultiAudio",
-    "ListItem.Plot": "M. LaLiga 1080 MultiAudio"
+    "ListItem.OriginalTitle": "M. LaLiga 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 1080 MultiAudio",
@@ -296,13 +297,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 1080 MultiAudio",
-    "ListItem.OriginalTitle": "M. LaLiga 1080 MultiAudio",
-    "ListItem.Plot": "M. LaLiga 1080 MultiAudio"
+    "ListItem.OriginalTitle": "M. LaLiga 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 720",
@@ -311,13 +312,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 720",
-    "ListItem.OriginalTitle": "M. LaLiga 720",
-    "ListItem.Plot": "M. LaLiga 720"
+    "ListItem.OriginalTitle": "M. LaLiga 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 2 1080",
@@ -326,13 +327,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 2 1080",
-    "ListItem.OriginalTitle": "M. LaLiga 2 1080",
-    "ListItem.Plot": "M. LaLiga 2 1080"
+    "ListItem.OriginalTitle": "M. LaLiga 2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 2 720",
@@ -341,13 +342,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 2 720",
-    "ListItem.OriginalTitle": "M. LaLiga 2 720",
-    "ListItem.Plot": "M. LaLiga 2 720"
+    "ListItem.OriginalTitle": "M. LaLiga 2 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 3 1080",
@@ -356,13 +357,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 3 1080",
-    "ListItem.OriginalTitle": "M. LaLiga 3 1080",
-    "ListItem.Plot": "M. LaLiga 3 1080"
+    "ListItem.OriginalTitle": "M. LaLiga 3 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 4 1080",
@@ -371,13 +372,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 4 1080",
-    "ListItem.OriginalTitle": "M. LaLiga 4 1080",
-    "ListItem.Plot": "M. LaLiga 4 1080"
+    "ListItem.OriginalTitle": "M. LaLiga 4 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 5 1080",
@@ -386,13 +387,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 5 1080",
-    "ListItem.OriginalTitle": "M. LaLiga 5 1080",
-    "ListItem.Plot": "M. LaLiga 5 1080"
+    "ListItem.OriginalTitle": "M. LaLiga 5 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. LaLiga 6 1080",
@@ -401,13 +402,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. LaLiga 6 1080",
-    "ListItem.OriginalTitle": "M. LaLiga 6 1080",
-    "ListItem.Plot": "M. LaLiga 6 1080"
+    "ListItem.OriginalTitle": "M. LaLiga 6 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "La Liga BAR 1080",
@@ -416,13 +417,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "La Liga BAR 1080",
-    "ListItem.OriginalTitle": "La Liga BAR 1080",
-    "ListItem.Plot": "La Liga BAR 1080"
+    "ListItem.OriginalTitle": "La Liga BAR 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN LaLiga 1080 MultiAudio",
@@ -431,13 +432,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN LaLiga 1080 MultiAudio",
-    "ListItem.OriginalTitle": "DAZN LaLiga 1080 MultiAudio",
-    "ListItem.Plot": "DAZN LaLiga 1080 MultiAudio"
+    "ListItem.OriginalTitle": "DAZN LaLiga 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN LaLiga 1080 MultiAudio",
@@ -446,13 +447,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN LaLiga 1080 MultiAudio",
-    "ListItem.OriginalTitle": "DAZN LaLiga 1080 MultiAudio",
-    "ListItem.Plot": "DAZN LaLiga 1080 MultiAudio"
+    "ListItem.OriginalTitle": "DAZN LaLiga 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN LaLiga 720",
@@ -461,13 +462,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN LaLiga 720",
-    "ListItem.OriginalTitle": "DAZN LaLiga 720",
-    "ListItem.Plot": "DAZN LaLiga 720"
+    "ListItem.OriginalTitle": "DAZN LaLiga 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN LaLiga 2 1080 MultiAudio",
@@ -476,13 +477,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN LaLiga 2 1080 MultiAudio",
-    "ListItem.OriginalTitle": "DAZN LaLiga 2 1080 MultiAudio",
-    "ListItem.Plot": "DAZN LaLiga 2 1080 MultiAudio"
+    "ListItem.OriginalTitle": "DAZN LaLiga 2 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN LaLiga 2 720 MultiAudio",
@@ -491,13 +492,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN LaLiga 2 720 MultiAudio",
-    "ListItem.OriginalTitle": "DAZN LaLiga 2 720 MultiAudio",
-    "ListItem.Plot": "DAZN LaLiga 2 720 MultiAudio"
+    "ListItem.OriginalTitle": "DAZN LaLiga 2 720 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN LaLiga 3 1080 MultiAudio",
@@ -506,13 +507,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN LaLiga 3 1080 MultiAudio",
-    "ListItem.OriginalTitle": "DAZN LaLiga 3 1080 MultiAudio",
-    "ListItem.Plot": "DAZN LaLiga 3 1080 MultiAudio"
+    "ListItem.OriginalTitle": "DAZN LaLiga 3 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN LaLiga 4 1080 MultiAudio",
@@ -521,13 +522,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN LaLiga 4 1080 MultiAudio",
-    "ListItem.OriginalTitle": "DAZN LaLiga 4 1080 MultiAudio",
-    "ListItem.Plot": "DAZN LaLiga 4 1080 MultiAudio"
+    "ListItem.OriginalTitle": "DAZN LaLiga 4 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN LaLiga 5 1080 MultiAudio",
@@ -536,13 +537,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN LaLiga 5 1080 MultiAudio",
-    "ListItem.OriginalTitle": "DAZN LaLiga 5 1080 MultiAudio",
-    "ListItem.Plot": "DAZN LaLiga 5 1080 MultiAudio"
+    "ListItem.OriginalTitle": "DAZN LaLiga 5 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 1080",
@@ -551,13 +552,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 1080",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 1080",
-    "ListItem.Plot": "LaLiga Smartbank 1080"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 720",
@@ -566,13 +567,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 720",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 720",
-    "ListItem.Plot": "LaLiga Smartbank 720"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 2 1080",
@@ -581,13 +582,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 2 1080",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 2 1080",
-    "ListItem.Plot": "LaLiga Smartbank 2 1080"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 2 720",
@@ -596,13 +597,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 2 720",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 2 720",
-    "ListItem.Plot": "LaLiga Smartbank 2 720"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 2 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 3",
@@ -611,13 +612,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 3",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 3",
-    "ListItem.Plot": "LaLiga Smartbank 3"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 3"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 4",
@@ -626,13 +627,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 4",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 4",
-    "ListItem.Plot": "LaLiga Smartbank 4"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 4"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 5",
@@ -641,13 +642,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 5",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 5",
-    "ListItem.Plot": "LaLiga Smartbank 5"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 5"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 6",
@@ -656,13 +657,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 6",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 6",
-    "ListItem.Plot": "LaLiga Smartbank 6"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 6"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 7",
@@ -671,13 +672,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 7",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 7",
-    "ListItem.Plot": "LaLiga Smartbank 7"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 7"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "LaLiga Smartbank 8",
@@ -686,13 +687,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "LaLiga Smartbank 8",
-    "ListItem.OriginalTitle": "LaLiga Smartbank 8",
-    "ListItem.Plot": "LaLiga Smartbank 8"
+    "ListItem.OriginalTitle": "LaLiga Smartbank 8"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.Plus 1080",
@@ -701,13 +702,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.Plus 1080",
-    "ListItem.OriginalTitle": "M.Plus 1080",
-    "ListItem.Plot": "M.Plus 1080"
+    "ListItem.OriginalTitle": "M.Plus 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Copa 1080",
@@ -716,13 +717,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Copa 1080",
-    "ListItem.OriginalTitle": "Copa 1080",
-    "ListItem.Plot": "Copa 1080"
+    "ListItem.OriginalTitle": "Copa 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Copa 1080 plus",
@@ -731,13 +732,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Copa 1080 plus",
-    "ListItem.OriginalTitle": "Copa 1080 plus",
-    "ListItem.Plot": "Copa 1080 plus"
+    "ListItem.OriginalTitle": "Copa 1080 plus"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Copa 1080 MultiAudio",
@@ -746,13 +747,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Copa 1080 MultiAudio",
-    "ListItem.OriginalTitle": "Copa 1080 MultiAudio",
-    "ListItem.Plot": "Copa 1080 MultiAudio"
+    "ListItem.OriginalTitle": "Copa 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Copa 1080",
@@ -761,13 +762,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Copa 1080",
-    "ListItem.OriginalTitle": "Copa 1080",
-    "ListItem.Plot": "Copa 1080"
+    "ListItem.OriginalTitle": "Copa 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Copa 720",
@@ -776,13 +777,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Copa 720",
-    "ListItem.OriginalTitle": "Copa 720",
-    "ListItem.Plot": "Copa 720"
+    "ListItem.OriginalTitle": "Copa 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "#Vamos 1080",
@@ -791,13 +792,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "#Vamos 1080",
-    "ListItem.OriginalTitle": "#Vamos 1080",
-    "ListItem.Plot": "#Vamos 1080"
+    "ListItem.OriginalTitle": "#Vamos 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "#Vamos 720",
@@ -806,13 +807,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "#Vamos 720",
-    "ListItem.OriginalTitle": "#Vamos 720",
-    "ListItem.Plot": "#Vamos 720"
+    "ListItem.OriginalTitle": "#Vamos 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "#Ellas 1080",
@@ -821,13 +822,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "#Ellas 1080",
-    "ListItem.OriginalTitle": "#Ellas 1080",
-    "ListItem.Plot": "#Ellas 1080"
+    "ListItem.OriginalTitle": "#Ellas 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Deportes 1080",
@@ -836,13 +837,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Deportes 1080",
-    "ListItem.OriginalTitle": "M. Deportes 1080",
-    "ListItem.Plot": "M. Deportes 1080"
+    "ListItem.OriginalTitle": "M. Deportes 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Deportes 720",
@@ -851,13 +852,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Deportes 720",
-    "ListItem.OriginalTitle": "M. Deportes 720",
-    "ListItem.Plot": "M. Deportes 720"
+    "ListItem.OriginalTitle": "M. Deportes 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Deportes 2 1080",
@@ -866,13 +867,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Deportes 2 1080",
-    "ListItem.OriginalTitle": "M. Deportes 2 1080",
-    "ListItem.Plot": "M. Deportes 2 1080"
+    "ListItem.OriginalTitle": "M. Deportes 2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Deportes 3 1080",
@@ -881,13 +882,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Deportes 3 1080",
-    "ListItem.OriginalTitle": "M. Deportes 3 1080",
-    "ListItem.Plot": "M. Deportes 3 1080"
+    "ListItem.OriginalTitle": "M. Deportes 3 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Deportes 4 1080",
@@ -896,13 +897,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Deportes 4 1080",
-    "ListItem.OriginalTitle": "M. Deportes 4 1080",
-    "ListItem.Plot": "M. Deportes 4 1080"
+    "ListItem.OriginalTitle": "M. Deportes 4 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Deportes 5 1080",
@@ -911,13 +912,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Deportes 5 1080",
-    "ListItem.OriginalTitle": "M. Deportes 5 1080",
-    "ListItem.Plot": "M. Deportes 5 1080"
+    "ListItem.OriginalTitle": "M. Deportes 5 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Deportes 6 1080",
@@ -926,13 +927,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Deportes 6 1080",
-    "ListItem.OriginalTitle": "M. Deportes 6 1080",
-    "ListItem.Plot": "M. Deportes 6 1080"
+    "ListItem.OriginalTitle": "M. Deportes 6 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Deportes 7 1080",
@@ -941,13 +942,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Deportes 7 1080",
-    "ListItem.OriginalTitle": "M. Deportes 7 1080",
-    "ListItem.Plot": "M. Deportes 7 1080"
+    "ListItem.OriginalTitle": "M. Deportes 7 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 1080 MultiAudio",
@@ -956,13 +957,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 1080 MultiAudio",
-    "ListItem.OriginalTitle": "M.L. Campeones 1080 MultiAudio",
-    "ListItem.Plot": "M.L. Campeones 1080 MultiAudio"
+    "ListItem.OriginalTitle": "M.L. Campeones 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 1080 MultiAudio",
@@ -971,13 +972,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 1080 MultiAudio",
-    "ListItem.OriginalTitle": "M.L. Campeones 1080 MultiAudio",
-    "ListItem.Plot": "M.L. Campeones 1080 MultiAudio"
+    "ListItem.OriginalTitle": "M.L. Campeones 1080 MultiAudio"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones  1080P",
@@ -986,13 +987,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones  1080P",
-    "ListItem.OriginalTitle": "M.L. Campeones  1080P",
-    "ListItem.Plot": "M.L. Campeones  1080P"
+    "ListItem.OriginalTitle": "M.L. Campeones  1080P"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 720",
@@ -1001,13 +1002,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 720",
-    "ListItem.OriginalTitle": "M.L. Campeones 720",
-    "ListItem.Plot": "M.L. Campeones 720"
+    "ListItem.OriginalTitle": "M.L. Campeones 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 2 1080",
@@ -1016,13 +1017,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 2 1080",
-    "ListItem.OriginalTitle": "M.L. Campeones 2 1080",
-    "ListItem.Plot": "M.L. Campeones 2 1080"
+    "ListItem.OriginalTitle": "M.L. Campeones 2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 2 720",
@@ -1031,13 +1032,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 2 720",
-    "ListItem.OriginalTitle": "M.L. Campeones 2 720",
-    "ListItem.Plot": "M.L. Campeones 2 720"
+    "ListItem.OriginalTitle": "M.L. Campeones 2 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 3 1080",
@@ -1046,13 +1047,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 3 1080",
-    "ListItem.OriginalTitle": "M.L. Campeones 3 1080",
-    "ListItem.Plot": "M.L. Campeones 3 1080"
+    "ListItem.OriginalTitle": "M.L. Campeones 3 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 3 720",
@@ -1061,13 +1062,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 3 720",
-    "ListItem.OriginalTitle": "M.L. Campeones 3 720",
-    "ListItem.Plot": "M.L. Campeones 3 720"
+    "ListItem.OriginalTitle": "M.L. Campeones 3 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 4 1080",
@@ -1076,13 +1077,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 4 1080",
-    "ListItem.OriginalTitle": "M.L. Campeones 4 1080",
-    "ListItem.Plot": "M.L. Campeones 4 1080"
+    "ListItem.OriginalTitle": "M.L. Campeones 4 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 5 1080",
@@ -1091,13 +1092,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 5 1080",
-    "ListItem.OriginalTitle": "M.L. Campeones 5 1080",
-    "ListItem.Plot": "M.L. Campeones 5 1080"
+    "ListItem.OriginalTitle": "M.L. Campeones 5 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 6 1080",
@@ -1106,13 +1107,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 6 1080",
-    "ListItem.OriginalTitle": "M.L. Campeones 6 1080",
-    "ListItem.Plot": "M.L. Campeones 6 1080"
+    "ListItem.OriginalTitle": "M.L. Campeones 6 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 7 1080",
@@ -1121,13 +1122,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 7 1080",
-    "ListItem.OriginalTitle": "M.L. Campeones 7 1080",
-    "ListItem.Plot": "M.L. Campeones 7 1080"
+    "ListItem.OriginalTitle": "M.L. Campeones 7 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 8 1080",
@@ -1136,13 +1137,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 8 1080",
-    "ListItem.OriginalTitle": "M.L. Campeones 8 1080",
-    "ListItem.Plot": "M.L. Campeones 8 1080"
+    "ListItem.OriginalTitle": "M.L. Campeones 8 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 9 SD",
@@ -1151,13 +1152,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 9 SD",
-    "ListItem.OriginalTitle": "M.L. Campeones 9 SD",
-    "ListItem.Plot": "M.L. Campeones 9 SD"
+    "ListItem.OriginalTitle": "M.L. Campeones 9 SD"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 10 SD",
@@ -1166,13 +1167,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 10 SD",
-    "ListItem.OriginalTitle": "M.L. Campeones 10 SD",
-    "ListItem.Plot": "M.L. Campeones 10 SD"
+    "ListItem.OriginalTitle": "M.L. Campeones 10 SD"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 11 SD",
@@ -1181,13 +1182,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 11 SD",
-    "ListItem.OriginalTitle": "M.L. Campeones 11 SD",
-    "ListItem.Plot": "M.L. Campeones 11 SD"
+    "ListItem.OriginalTitle": "M.L. Campeones 11 SD"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 12 SD",
@@ -1196,13 +1197,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 12 SD",
-    "ListItem.OriginalTitle": "M.L. Campeones 12 SD",
-    "ListItem.Plot": "M.L. Campeones 12 SD"
+    "ListItem.OriginalTitle": "M.L. Campeones 12 SD"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 13 SD",
@@ -1211,13 +1212,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 13 SD",
-    "ListItem.OriginalTitle": "M.L. Campeones 13 SD",
-    "ListItem.Plot": "M.L. Campeones 13 SD"
+    "ListItem.OriginalTitle": "M.L. Campeones 13 SD"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M.L. Campeones 17 SD",
@@ -1226,13 +1227,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M.L. Campeones 17 SD",
-    "ListItem.OriginalTitle": "M.L. Campeones 17 SD",
-    "ListItem.Plot": "M.L. Campeones 17 SD"
+    "ListItem.OriginalTitle": "M.L. Campeones 17 SD"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Golf 1080",
@@ -1241,13 +1242,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Golf 1080",
-    "ListItem.OriginalTitle": "M. Golf 1080",
-    "ListItem.Plot": "M. Golf 1080"
+    "ListItem.OriginalTitle": "M. Golf 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "M. Golf2 1080",
@@ -1256,13 +1257,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "M. Golf2 1080",
-    "ListItem.OriginalTitle": "M. Golf2 1080",
-    "ListItem.Plot": "M. Golf2 1080"
+    "ListItem.OriginalTitle": "M. Golf2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN 1 1080",
@@ -1271,13 +1272,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN 1 1080",
-    "ListItem.OriginalTitle": "DAZN 1 1080",
-    "ListItem.Plot": "DAZN 1 1080"
+    "ListItem.OriginalTitle": "DAZN 1 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN 1 720",
@@ -1286,13 +1287,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN 1 720",
-    "ListItem.OriginalTitle": "DAZN 1 720",
-    "ListItem.Plot": "DAZN 1 720"
+    "ListItem.OriginalTitle": "DAZN 1 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN 2 1080",
@@ -1301,13 +1302,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN 2 1080",
-    "ListItem.OriginalTitle": "DAZN 2 1080",
-    "ListItem.Plot": "DAZN 2 1080"
+    "ListItem.OriginalTitle": "DAZN 2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN 2 720",
@@ -1316,13 +1317,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN 2 720",
-    "ListItem.OriginalTitle": "DAZN 2 720",
-    "ListItem.Plot": "DAZN 2 720"
+    "ListItem.OriginalTitle": "DAZN 2 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN 3 1080",
@@ -1331,13 +1332,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN 3 1080",
-    "ListItem.OriginalTitle": "DAZN 3 1080",
-    "ListItem.Plot": "DAZN 3 1080"
+    "ListItem.OriginalTitle": "DAZN 3 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN 4 1080",
@@ -1346,13 +1347,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN 4 1080",
-    "ListItem.OriginalTitle": "DAZN 4 1080",
-    "ListItem.Plot": "DAZN 4 1080"
+    "ListItem.OriginalTitle": "DAZN 4 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN F1 Multicamara (Fórmula 1)",
@@ -1361,13 +1362,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN F1 Multicamara (Fórmula 1)",
-    "ListItem.OriginalTitle": "DAZN F1 Multicamara (Fórmula 1)",
-    "ListItem.Plot": "DAZN F1 Multicamara (Fórmula 1)"
+    "ListItem.OriginalTitle": "DAZN F1 Multicamara (Fórmula 1)"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN F1 1080 (Fórmula 1)",
@@ -1376,13 +1377,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN F1 1080 (Fórmula 1)",
-    "ListItem.OriginalTitle": "DAZN F1 1080 (Fórmula 1)",
-    "ListItem.Plot": "DAZN F1 1080 (Fórmula 1)"
+    "ListItem.OriginalTitle": "DAZN F1 1080 (Fórmula 1)"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN F1 1080 (Fórmula 1)",
@@ -1391,13 +1392,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN F1 1080 (Fórmula 1)",
-    "ListItem.OriginalTitle": "DAZN F1 1080 (Fórmula 1)",
-    "ListItem.Plot": "DAZN F1 1080 (Fórmula 1)"
+    "ListItem.OriginalTitle": "DAZN F1 1080 (Fórmula 1)"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "DAZN F1 720 (Fórmula 1)",
@@ -1406,13 +1407,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "DAZN F1 720 (Fórmula 1)",
-    "ListItem.OriginalTitle": "DAZN F1 720 (Fórmula 1)",
-    "ListItem.Plot": "DAZN F1 720 (Fórmula 1)"
+    "ListItem.OriginalTitle": "DAZN F1 720 (Fórmula 1)"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Eurosport 4K",
@@ -1421,13 +1422,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Eurosport 4K",
-    "ListItem.OriginalTitle": "Eurosport 4K",
-    "ListItem.Plot": "Eurosport 4K"
+    "ListItem.OriginalTitle": "Eurosport 4K"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "EuroSport 1 1080",
@@ -1436,13 +1437,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "EuroSport 1 1080",
-    "ListItem.OriginalTitle": "EuroSport 1 1080",
-    "ListItem.Plot": "EuroSport 1 1080"
+    "ListItem.OriginalTitle": "EuroSport 1 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "EuroSport 2 1080",
@@ -1451,13 +1452,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "EuroSport 2 1080",
-    "ListItem.OriginalTitle": "EuroSport 2 1080",
-    "ListItem.Plot": "EuroSport 2 1080"
+    "ListItem.OriginalTitle": "EuroSport 2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "GOL TV 1080",
@@ -1466,13 +1467,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "GOL TV 1080",
-    "ListItem.OriginalTitle": "GOL TV 1080",
-    "ListItem.Plot": "GOL TV 1080"
+    "ListItem.OriginalTitle": "GOL TV 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "TDP 1080",
@@ -1481,13 +1482,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "TDP 1080",
-    "ListItem.OriginalTitle": "TDP 1080",
-    "ListItem.Plot": "TDP 1080"
+    "ListItem.OriginalTitle": "TDP 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Tennis Channel",
@@ -1496,13 +1497,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Tennis Channel",
-    "ListItem.OriginalTitle": "Tennis Channel",
-    "ListItem.Plot": "Tennis Channel"
+    "ListItem.OriginalTitle": "Tennis Channel"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "CUATRO 1080",
@@ -1511,13 +1512,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "CUATRO 1080",
-    "ListItem.OriginalTitle": "CUATRO 1080",
-    "ListItem.Plot": "CUATRO 1080"
+    "ListItem.OriginalTitle": "CUATRO 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "BeMad 1080",
@@ -1526,13 +1527,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "BeMad 1080",
-    "ListItem.OriginalTitle": "BeMad 1080",
-    "ListItem.Plot": "BeMad 1080"
+    "ListItem.OriginalTitle": "BeMad 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Telecinco 1080",
@@ -1541,13 +1542,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Telecinco 1080",
-    "ListItem.OriginalTitle": "Telecinco 1080",
-    "ListItem.Plot": "Telecinco 1080"
+    "ListItem.OriginalTitle": "Telecinco 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "TV3 1080",
@@ -1556,13 +1557,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "TV3 1080",
-    "ListItem.OriginalTitle": "TV3 1080",
-    "ListItem.Plot": "TV3 1080"
+    "ListItem.OriginalTitle": "TV3 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Sport TV 1 1080",
@@ -1571,13 +1572,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Sport TV 1 1080",
-    "ListItem.OriginalTitle": "Sport TV 1 1080",
-    "ListItem.Plot": "Sport TV 1 1080"
+    "ListItem.OriginalTitle": "Sport TV 1 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Sport TV 2 1080",
@@ -1586,13 +1587,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Sport TV 2 1080",
-    "ListItem.OriginalTitle": "Sport TV 2 1080",
-    "ListItem.Plot": "Sport TV 2 1080"
+    "ListItem.OriginalTitle": "Sport TV 2 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Sport TV 3 1080",
@@ -1601,13 +1602,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Sport TV 3 1080",
-    "ListItem.OriginalTitle": "Sport TV 3 1080",
-    "ListItem.Plot": "Sport TV 3 1080"
+    "ListItem.OriginalTitle": "Sport TV 3 1080"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "beIN SPORTS ñ",
@@ -1616,13 +1617,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "beIN SPORTS ñ",
-    "ListItem.OriginalTitle": "beIN SPORTS ñ",
-    "ListItem.Plot": "beIN SPORTS ñ"
+    "ListItem.OriginalTitle": "beIN SPORTS ñ"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "Barça 720",
@@ -1631,13 +1632,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "Barça 720",
-    "ListItem.OriginalTitle": "Barça 720",
-    "ListItem.Plot": "Barça 720"
+    "ListItem.OriginalTitle": "Barça 720"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "PPVP 1",
@@ -1646,13 +1647,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "PPVP 1",
-    "ListItem.OriginalTitle": "PPVP 1",
-    "ListItem.Plot": "PPVP 1"
+    "ListItem.OriginalTitle": "PPVP 1"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "PPVP 2",
@@ -1661,13 +1662,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "PPVP 2",
-    "ListItem.OriginalTitle": "PPVP 2",
-    "ListItem.Plot": "PPVP 2"
+    "ListItem.OriginalTitle": "PPVP 2"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "PPVP 3",
@@ -1676,13 +1677,13 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "PPVP 3",
-    "ListItem.OriginalTitle": "PPVP 3",
-    "ListItem.Plot": "PPVP 3"
+    "ListItem.OriginalTitle": "PPVP 3"
   },
   {
     "ListItem.Genre": null,
     "ListItem.Year": null,
     "ListItem.Director": null,
+    "ListItem.Plot": null,
     "ListItem.Rating": null,
     "ListItem.Tagline": null,
     "ListItem.Title": "PPVP 4",
@@ -1691,7 +1692,6 @@
     "ListItem.Art(fanart)": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\fanart.jpg",
     "ListItem.Icon": "C:\\Users\\Kike\\AppData\\Roaming\\Kodi\\addons\\script.module.horus\\icon.png",
     "ListItem.Label": "PPVP 4",
-    "ListItem.OriginalTitle": "PPVP 4",
-    "ListItem.Plot": "PPVP 4"
+    "ListItem.OriginalTitle": "PPVP 4"
   }
 ]
